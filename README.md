@@ -1,5 +1,6 @@
 # karprekar-s-number
 What's So Special About the Magic Number 6174? 
+
 The number '6174' looks like any other ordinary number but what if I told you this is a magic number? Would you believe me? 
 6174 is known as kaprekar’s constant as it was invented by Indian mathematician DR Kaprekar in 1949. 
 Even mathematicians, till date, aren't sure how to explain this magic number. Wondering, what's so unique about the number? This number is known for the rule as following: 
